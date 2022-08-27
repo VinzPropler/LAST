@@ -15,9 +15,9 @@ Pacotes = [
 
 os.system("cls")
 print ' \033[95m******************************************'
-print ' \033[95m=========== \033[94mDDOS TOOLS B-TEAMM \033[95m==========='               
+print ' \033[95m=========== \033[94mDDOS TOOLS BY VINZ505 \033[95m==========='               
 print ' ******************************************'
-print("\033[91mTOK TOK BARANG SAMPAI IP \033[92m%s \033[91mDAN MEMBERI ROTI KEPORT \033[92m%s!!"%(ip,port))
+print("\033[91mTOK TOK PAKET FROM VINZ505 \033[92m%s \033[91mDAN MEMBERI BANSOS KE PORT \033[92m%s!!"%(ip,port))
 
 class MyThread(threading.Thread):
 
@@ -50,7 +50,7 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         os.system('cls' if os.name == 'nt' else 'clear')
         print '************************'
-        print '** DDOS TOOLS B-TEAMM **'
+        print '** DDOS TOOLS BY VINZ505 **'
         print '************************'
         print '\n\n'
         print ('BERHENTI MENYERANG {}').format(orgip)
